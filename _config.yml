@@ -3,7 +3,7 @@
 
 title: Projects - Kevin Miao
 description: Extension of Kevin Miao's personal website to showcase all projects and writings.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://kevin-miao.github.io/projects" # the base hostname & protocol for your site, e.g. http://example.com
 
 
